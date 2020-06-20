@@ -6,9 +6,9 @@
 - git
 
 依赖准备：
-pip install pytest
-pip install requests
-pip install allure-pytest
+- pip install pytest
+- pip install requests
+- pip install allure-pytest
 
 运行命令：
 pytest weather_test.py --alluredir=report --clean-alluredir
